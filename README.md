@@ -1,11 +1,9 @@
-<!-- Header Animation: Dynamic Waving Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:61DAFB&height=280&section=header&text=Sukhwinder%20Pal&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer%20%7C%20React%20Native%20%26%20Flutter&descAlignY=55&descAlign=50" alt="header" />
-</div>
+<h1 align="center">Hi, I'm Sukhwinder Pal 👋</h1>
+<h3 align="center">Full Stack Mobile Application Developer | React Native & Flutter</h3>
 
 <!-- Animated Typing Text for Core Engineering Identity -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full+Stack+Mobile+Application+Developer;React+Native+Specialist+%7C+JSI+%7C+Fabric;Hybrid+App+Expert+(React+Native+%26+Flutter);Bridging+Native+performance+and+Cross-Platform;Scaling+systems+from+0+to+Production;Obsessed+with+60fps%2B+animations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full+Stack+Mobile+Application+Developer;React+Native+Specialist+%7C+JSI+%7C+Fabric;Hybrid+App+Expert+(React+Native+%26+Flutter);Bridging+Native+performance+and+Cross-Platform;Scaling+systems+from+0+to+Production" alt="Typing SVG" />
 </div>
 
 <!-- Animated Profile View Counter -->
@@ -20,8 +18,6 @@
 <div align="center">
   <i>"I don't just build apps; I engineer fluid, high-octane mobile experiences that scale."</i>
 </div>
-
-<br/>
 
 ---
 
@@ -50,63 +46,42 @@
 
 ---
 
-<div align="center">
-  <h2>⚛️ React Native Specialization (Primary Focus)</h2>
-</div>
+## 🛠 Technology Arsenal
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
-      <br/><strong>Core Framework</strong><br/>
-      <sub>New Architecture, Fabric, JSI</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="60" height="60" alt="Android"/>
-      <br/><strong>Native Android</strong><br/>
-      <sub>Kotlin, Java, Gradle</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" height="60" alt="iOS"/>
-      <br/><strong>Native iOS</strong><br/>
-      <sub>Swift, Objective-C</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="60" height="60" alt="Flutter"/>
-      <br/><strong>Hybrid Apps</strong><br/>
-      <sub>Flutter & Dart Integration</sub>
-    </td>
-  </tr>
-</table>
+### 📱 Mobile Development (Primary Focus)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,android,apple&theme=dark" alt="Mobile Development" />
+  </a>
+</p>
 
----
+### 💻 Frontend & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,python&theme=dark" alt="Frontend and Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <h2>🧰 Full-Stack & Infrastructure Arsenal</h2>
-</div>
+### ⚙️ Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Development" />
+  </a>
+</p>
 
-<div align="center">
-  <!-- Mobile Frameworks & Languages -->
-  <a href="https://reactnative.dev/" target="_blank"><img margin="5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <br/>
-  
-  <!-- Backend & DB -->
-  <a href="https://nodejs.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
-  <br/>
+### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="Databases" />
+  </a>
+</p>
 
-  <!-- Tools & Mobile CI/CD -->
-  <a href="https://git-scm.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-  <a href="https://github.com/features/actions" target="_blank"><img margin="5" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
-  <a href="https://fastlane.tools/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" /></a>
-</div>
+### ☁️ Cloud & DevOps (Tools)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode&theme=dark" alt="Tools" />
+  </a>
+</p>
 
 ---
 
@@ -162,11 +137,4 @@
   <a href="mailto:sukhwinderpal0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2" alt="Email"/></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&scale=1.2" alt="Twitter"/></a>
   <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&scale=1.2" alt="Medium"/></a>
-</div>
-
-<br/>
-
-<!-- Dynamic Waving Footer to match Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:20232a&height=100&section=footer" alt="footer" />
 </div>
