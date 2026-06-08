@@ -1,11 +1,11 @@
 <!-- Header Animation: Dynamic Waving Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:61DAFB&height=280&section=header&text=Sukhwinder%20Pal&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20React%20Native%20Architect&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:61DAFB&height=280&section=header&text=Sukhwinder%20Pal&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer%20%7C%20React%20Native%20%26%20Flutter&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
 <!-- Animated Typing Text for Core Engineering Identity -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Architecting+High-Performance+Mobile+Applications;React+Native+Specialist+%7C+JSI+%7C+Fabric+%7C+TurboModules;Bridging+the+gap+between+Native+performance+and+Cross-Platform;Scaling+systems+from+0+to+Production;Obsessed+with+60fps%2B+animations+and+memory+profiling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full+Stack+Mobile+Application+Developer;React+Native+Specialist+%7C+JSI+%7C+Fabric;Hybrid+App+Expert+(React+Native+%26+Flutter);Bridging+Native+performance+and+Cross-Platform;Scaling+systems+from+0+to+Production;Obsessed+with+60fps%2B+animations" alt="Typing SVG" />
 </div>
 
 <!-- Animated Profile View Counter -->
@@ -31,19 +31,19 @@
     <td width="65%" valign="top">
       <h2>🚀 About My Engineering Journey</h2>
       <p>
-        I am a <strong>Senior Software Engineer</strong> deeply specialized in the <strong>React Native</strong> ecosystem. With a robust background in bridging JavaScript and native layers (Android/iOS), I focus on pushing the boundaries of mobile performance using <strong>JSI, Fabric, Reanimated 3, and Skia</strong>.
+        I am a <strong>Full Stack Mobile Application Developer</strong> who crafts premium hybrid applications. While my deepest expertise and main focus lie within the <strong>React Native</strong> ecosystem (mastering JSI, Fabric, Reanimated 3, and Skia), I am also highly proficient in building natively compiled applications with <strong>Flutter</strong>.
       </p>
       <p>
-        My architectural approach prioritizes <strong>offline-first capabilities, 60-120fps animations, memory leak prevention, and seamless CI/CD pipelines</strong>. I thrive in complex environments, integrating deeply with native modules, optimizing render cycles, and scaling backend infrastructure to support millions of users.
+        My architectural approach prioritizes <strong>offline-first capabilities, 60-120fps animations, memory leak prevention, and seamless CI/CD pipelines</strong>. I bridge the gap between complex backend architectures (Node.js, PostgreSQL) and lightning-fast mobile user interfaces, ensuring that the apps I build can sustain millions of users.
       </p>
       <br/>
       <p>
-        📫 <b>Reach me at:</b> <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+        📫 <b>Reach me at:</b> <a href="mailto:sukhwinderpal0702@gmail.com">sukhwinderpal0702@gmail.com</a>
       </p>
     </td>
     <td width="35%" align="center" valign="top">
-      <!-- High-quality coding GIF to show passion -->
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programming Animation"/>
+      <!-- High-quality, ultra-reliable coding GIF from GitHub raw content -->
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="250" alt="Programming Animation"/>
     </td>
   </tr>
 </table>
@@ -51,30 +51,30 @@
 ---
 
 <div align="center">
-  <h2>⚛️ React Native Specialization & Core Competencies</h2>
+  <h2>⚛️ React Native Specialization (Primary Focus)</h2>
 </div>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React Native"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
       <br/><strong>Core Framework</strong><br/>
-      <sub>New Architecture, Fabric, JSI, TurboModules</sub>
+      <sub>New Architecture, Fabric, JSI</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="60" height="60" alt="Android"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="60" height="60" alt="Android"/>
       <br/><strong>Native Android</strong><br/>
-      <sub>Kotlin, Java, Gradle, UI Threading</sub>
+      <sub>Kotlin, Java, Gradle</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60" height="60" alt="iOS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" height="60" alt="iOS"/>
       <br/><strong>Native iOS</strong><br/>
-      <sub>Swift, Objective-C, CocoaPods, Instruments</sub>
+      <sub>Swift, Objective-C</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="60" height="60" alt="Performance"/>
-      <br/><strong>Performance Tuning</strong><br/>
-      <sub>Hermes, Reanimated, FlashList, Memory Profiling</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="60" height="60" alt="Flutter"/>
+      <br/><strong>Hybrid Apps</strong><br/>
+      <sub>Flutter & Dart Integration</sub>
     </td>
   </tr>
 </table>
@@ -86,24 +86,19 @@
 </div>
 
 <div align="center">
-  <!-- Languages -->
+  <!-- Mobile Frameworks & Languages -->
+  <a href="https://reactnative.dev/" target="_blank"><img margin="5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.python.org" target="_blank"><img margin="5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <br/>
   
-  <!-- State & Utils -->
-  <a href="https://redux-toolkit.js.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" /></a>
-  <a href="https://tanstack.com/query/v3/" target="_blank"><img margin="5" src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <br/>
-
   <!-- Backend & DB -->
   <a href="https://nodejs.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img margin="5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img margin="5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <br/>
 
   <!-- Tools & Mobile CI/CD -->
@@ -150,14 +145,10 @@
 <div align="center">
   <h3>🐍 My Code Contribution Snake</h3>
   <picture>
-    <!-- Dark Mode Snake -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake-dark.svg">
-    <!-- Light Mode Snake -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake.svg">
-    <!-- Fallback -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
   </picture>
-  <p><sub><i>*Note: You can automate this snake generation for your own commits using the <a href="https://github.com/Platane/snk">Platane/snk</a> action.*</i></sub></p>
 </div>
 
 ---
@@ -167,8 +158,8 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sukhwinder-pal-74263a335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/></a>
+  <a href="mailto:sukhwinderpal0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2" alt="Email"/></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&scale=1.2" alt="Twitter"/></a>
   <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&scale=1.2" alt="Medium"/></a>
 </div>
