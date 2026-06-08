@@ -81,21 +81,16 @@
   <h2>🏆 GitHub Analytics & Engineering Metrics</h2>
 </div>
 
-<!-- GitHub Trophies -->
+<!-- Advanced Stats Grid -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSukhwinder&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSukhwinder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=61DAFB" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSukhwinder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- Advanced Stats Grid -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSukhwinder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=61DAFB" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSukhwinder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSukhwinder&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSukhwinder&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>
@@ -104,11 +99,11 @@
 <div align="center">
   <h3>🐍 My Code Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/master/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithSukhwinder/CodeWithSukhwinder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithSukhwinder/CodeWithSukhwinder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeWithSukhwinder/CodeWithSukhwinder/output/github-contribution-grid-snake.svg">
   </picture>
-  <p><sub><i>(This is a live demo snake. Yours will generate when you run the GitHub Action!)</i></sub></p>
+  <p><sub><i>(Run your GitHub Action to generate this snake!)</i></sub></p>
 </div>
 
 ---
