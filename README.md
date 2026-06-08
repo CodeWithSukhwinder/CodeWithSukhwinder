@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Sukhwinder Pal 👋</h1>
-<h3 align="center">Full Stack Mobile Application Developer | React Native & Flutter</h3>
-
 <!-- Header Animation: Dynamic Waving Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:61DAFB&height=280&section=header&text=Sukhwinder%20Pal&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer%20%7C%20React%20Native%20and%20Flutter&descAlignY=55&descAlign=50" alt="header" />
