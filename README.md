@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Sukhwinder Pal 👋</h1>
 <h3 align="center">Full Stack Mobile Application Developer | React Native & Flutter</h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+</div>
+
 <!-- Animated Typing Text for Core Engineering Identity -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full+Stack+Mobile+Application+Developer;React+Native+Specialist+%7C+JSI+%7C+Fabric;Hybrid+App+Expert+(React+Native+%26+Flutter);Bridging+Native+performance+and+Cross-Platform;Scaling+systems+from+0+to+Production" alt="Typing SVG" />
@@ -19,8 +23,6 @@
 
 ---
 
-<!-- Using img align="right" instead of table to avoid ugly GitHub borders! -->
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Programming Animation"/>
 
 <h2>🚀 About My Engineering Journey</h2>
 <p>
@@ -34,7 +36,6 @@
   📫 <b>Reach me at:</b> <a href="mailto:sukhwinderpal0702@gmail.com">sukhwinderpal0702@gmail.com</a>
 </p>
 
-<br clear="all"/> <!-- Clears the float so the next section is normal -->
 
 ---
 
@@ -122,4 +123,10 @@
   <a href="mailto:sukhwinderpal0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2" alt="Email"/></a>
   <a href="https://twitter.com/octocat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&scale=1.2" alt="Twitter"/></a>
   <a href="https://medium.com/@octocat"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&scale=1.2" alt="Medium"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 </div>
